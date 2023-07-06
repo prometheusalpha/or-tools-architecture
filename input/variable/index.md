@@ -1,7 +1,7 @@
-```mermaid
 ---
 title: Var
 ---
+```mermaid
 classDiagram
   direction LR
   class IntExpr{

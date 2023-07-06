@@ -1,7 +1,7 @@
-```mermaid
 ---
 title: Routing model
 ---
+```mermaid
 classDiagram
     class RoutingModel {
     }

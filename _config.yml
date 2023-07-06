@@ -3,5 +3,6 @@ sidebar:
   - Routing model
   - label: Input
     children:
+      - Input
       - Constraint
       - Var

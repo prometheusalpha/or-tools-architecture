@@ -1,7 +1,7 @@
+---
+title: Input
+---
 ```mermaid
----
-title: Var
----
 classDiagram
   direction LR
   RoutingModel --> Dimension

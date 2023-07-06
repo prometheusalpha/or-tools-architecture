@@ -1,7 +1,7 @@
-```mermaid
 ---
 title: Constraint
 ---
+```mermaid
 classDiagram
   direction LR
   Constraint <|-- CastConstraint
