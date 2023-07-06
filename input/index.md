@@ -11,4 +11,5 @@ classDiagram
   Constraint --> IntExpr
   RoutingModel --> DisjunctionIndex
   RoutingModel --> RoutingSearchParameters
+  RoutingModel --> penalty
 ```
